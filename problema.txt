@@ -1,0 +1,21 @@
+Usted necesita llevar un control de la distribución de las frutas para 3 tiendas,
+de las cuales ud administra.
+las frutas, precios y cantidades se determinan de la siguiente manera:
+
+-manzanas 45 $0.5 c/d
+-peras 32 $0.8 c/d
+-bananos 90 $0.080 c/d
+-fresas 230 $0.28 c/d
+-mangos 150 $0.70 c/d
+-piña 24 $1.02 c/d
+-coco 20 $0.97
+
+* Reparta las cantidades de frutas segun lo necesite o este determinado por la 
+cantidad existente en stock para cada una de las tiendas.
+* Seleccione una tienda y muestre las cantidades distribuidas con su respectivo 
+precio en dolares y colones para cada fruta ademas agregue el 13% de i.v.a, 
+la cantidad total de frutas, y la ganancia total al vender todas las frutas 
+(total suma de precio de frutas * 13%).
+
+
+* los calculos economicos se deben mostrar tanto en dolares como colones
